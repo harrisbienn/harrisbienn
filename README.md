@@ -1,7 +1,5 @@
 # Hi, I'm Harris Bienn
 
-**Geospatial analyst with a background in environmental engineering**
-
 I build reproducible geospatial workflows and decision-support tools for flood
 risk, hazard assessment, stormwater, and coastal applications. My work connects
 GIS, hydrologic and hydraulic modeling, scientific computing, and cartography.
