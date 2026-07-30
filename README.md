@@ -1,51 +1,66 @@
-# Harris Bienn
+# Hi, I'm Harris Bienn
 
-Geospatial analyst with a background in environmental engineering, building
-reproducible tools for flood-risk analysis, hazard assessment, and technical
-decision support.
+**Geospatial analyst with a background in environmental engineering**
 
-My work connects GIS, hydrologic and hydraulic modeling, scientific computing,
-and cartography. I focus on turning complex spatial data and model results into
-reliable workflows, clear visualizations, and useful applications for
-engineers, researchers, planners, and communities.
+I build reproducible geospatial workflows and decision-support tools for flood
+risk, hazard assessment, stormwater, and coastal applications. My work connects
+GIS, hydrologic and hydraulic modeling, scientific computing, and cartography.
 
-## Interests
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Harris_Bienn-0A66C2?style=flat-square)](https://www.linkedin.com/in/harris-bienn-94a28785/)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-Harris_Bienn-00CCBB?style=flat-square&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Harris_Bienn)
 
-- Flood risk, stormwater, and hydrologic/hydraulic model integration
-- Geospatial data engineering and reproducible scientific workflows
-- Open-source GIS and interoperable spatial-data systems
-- Spatial statistics, geospatial machine learning, and LiDAR analysis
-- Enterprise GIS architecture, cloud migration, and platform administration
-- Web maps, dashboards, and other decision-support applications
-- Cartography, scientific visualization, and risk communication
-- Social vulnerability and community-informed hazard assessment
+## Focus areas
 
-## Technical proficiencies
+![Flood Risk](https://img.shields.io/badge/Flood_Risk-0F6B78?style=flat-square)
+![H&H Modeling](https://img.shields.io/badge/H%26H_Modeling-0F6B78?style=flat-square)
+![Spatial Analysis](https://img.shields.io/badge/Spatial_Analysis-0F6B78?style=flat-square)
+![Geospatial Data Engineering](https://img.shields.io/badge/Geospatial_Data_Engineering-0F6B78?style=flat-square)
+![Decision Support](https://img.shields.io/badge/Decision_Support-0F6B78?style=flat-square)
+![Scientific Visualization](https://img.shields.io/badge/Scientific_Visualization-0F6B78?style=flat-square)
+![Social Vulnerability](https://img.shields.io/badge/Social_Vulnerability-0F6B78?style=flat-square)
 
-| Area | Technologies and methods |
-| --- | --- |
-| Programming and automation | **Python**, **SQL**, R, MATLAB |
-| Desktop and open-source GIS | **ArcGIS Pro**, **ArcMap**, **QGIS**, **WhiteboxTools**, OpenStreetMap |
-| Enterprise and web GIS | **ArcGIS Enterprise**, Experience Builder, Dashboards, web mapping |
-| Modeling and spatial analysis | HAZUS, HEC-RAS, SWMM, ArcGIS ModelBuilder, LiDAR processing, network analysis |
-| Data science | Jupyter, spatial statistics, scikit-learn, TensorFlow, geospatial visualization |
-| Cloud and data platforms | AWS (S3, EC2, Lambda, RDS), Databricks |
-| Development environments | VS Code, PyCharm, RStudio; Windows, macOS, and Linux |
+- **Automated analysis:** Python tools for geoprocessing, data preparation,
+  quality control, spatial analysis, and reporting
+- **Model integration:** GIS workflows connecting hydrologic and hydraulic
+  models with flood-risk and hazard products
+- **Decision support:** Web maps, dashboards, and applications that make
+  technical results accessible to planners, engineers, and communities
+- **Geospatial platforms:** Maintainable enterprise and open-source solutions
+  with clear provenance and reusable workflows
 
-## What I build
+## Technology and tools
 
-- Python tools that automate geoprocessing, data preparation, quality control,
-  analysis, and reporting
-- GIS workflows that connect hydrologic and hydraulic models with spatial
-  analysis and flood-risk products
-- Web GIS applications, dashboards, and maps that make technical results
-  accessible to decision-makers
-- Enterprise and open-source geospatial solutions designed for maintainability,
-  reuse, and clear provenance
-- Publication-quality maps and scientific graphics for research, planning, and
-  public communication
+**Programming and data**
 
-## Connect
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-E16737?style=flat-square)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
-[LinkedIn](https://www.linkedin.com/in/harris-bienn-94a28785/) |
-[ResearchGate](https://www.researchgate.net/profile/Harris_Bienn)
+**GIS and mapping**
+
+![ArcGIS Pro](https://img.shields.io/badge/ArcGIS_Pro-2C7AC3?style=flat-square&logo=arcgis&logoColor=white)
+![ArcGIS Enterprise](https://img.shields.io/badge/ArcGIS_Enterprise-2C7AC3?style=flat-square&logo=arcgis&logoColor=white)
+![QGIS](https://img.shields.io/badge/QGIS-589632?style=flat-square&logo=qgis&logoColor=white)
+![WhiteboxTools](https://img.shields.io/badge/WhiteboxTools-4B5563?style=flat-square)
+![OpenStreetMap](https://img.shields.io/badge/OpenStreetMap-7EBC6F?style=flat-square&logo=openstreetmap&logoColor=white)
+
+**Modeling and spatial analysis**
+
+![HEC-RAS](https://img.shields.io/badge/HEC--RAS-6B7280?style=flat-square)
+![SWMM](https://img.shields.io/badge/SWMM-6B7280?style=flat-square)
+![HAZUS](https://img.shields.io/badge/HAZUS-6B7280?style=flat-square)
+![LiDAR](https://img.shields.io/badge/LiDAR-6B7280?style=flat-square)
+![ArcGIS ModelBuilder](https://img.shields.io/badge/ArcGIS_ModelBuilder-6B7280?style=flat-square&logo=arcgis&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+
+**Cloud and development**
+
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
