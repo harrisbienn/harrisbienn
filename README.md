@@ -1,4 +1,4 @@
-# Hi, I'm Harris Bienn
+I'm a geospatial practitioner and knowledge broker located in coastal Louisiana. 
 
 I build reproducible geospatial workflows and decision-support tools for flood
 risk, hazard assessment, stormwater, and coastal applications. My work connects
