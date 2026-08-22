@@ -1,8 +1,6 @@
 I'm a geospatial practitioner and knowledge broker located in coastal Louisiana. 
 
-I build reproducible geospatial workflows and decision-support tools for flood
-risk, hazard assessment, stormwater, and coastal applications. My work connects
-GIS, hydrologic and hydraulic modeling, scientific computing, and cartography.
+I build reproducible geospatial workflows and decision-support tools for flood risk, hazard assessment, stormwater, and coastal applications. My work connects GIS, hydrologic and hydraulic modeling, scientific computing, and cartography.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Harris_Bienn-0A66C2?style=flat-square)](https://www.linkedin.com/in/harris-bienn-94a28785/)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-Harris_Bienn-00CCBB?style=flat-square&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Harris_Bienn)
